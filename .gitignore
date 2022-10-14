@@ -1,0 +1,5 @@
+cmake-build-local
+cmake-build-remote
+python/.idea
+.idea
+python/data
